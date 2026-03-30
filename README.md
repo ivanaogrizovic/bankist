@@ -13,6 +13,7 @@
     A learning project for Vanilla JS DOM manipulation
     <br />
     <a href="https://ivanaogrizovic.github.io/Bankist/">View Demo</a>
+    <br />
     <img src="./preview.gif">
     <!-- &middot;
     <a href="">Report Bug</a>
