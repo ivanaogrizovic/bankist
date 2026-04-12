@@ -1,4 +1,5 @@
 <a id="readme-top"></a>
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=css,html,javascript,jquery)](https://i.icoziv.workers.dev)
 
 <!-- PROJECT LOGO -->
 <br />
