@@ -108,8 +108,10 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/ivana-ogrizovic/)
+[![Icoziv-icons](https://i.icoziv.workers.dev/icons?i=linkedin)](https://www.linkedin.com/in/ivana-ogrizovic/)
 
 Project Link: [https://github.com/ivanaogrizovic/bankist](https://github.com/ivanaogrizovic/bankist)
+
+[![SAFE-HAND MADE CODE](https://img.shields.io/badge/SAFE-HAND%20MADE%20CODE-32CD32)](https://github.com/40ants/ai-badges)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
